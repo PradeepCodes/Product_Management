@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc2211fa-cb6c-4f6b-905d-c52a11b97465" name="Changes" comment="Global Exception Handling Added">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc2211fa-cb6c-4f6b-905d-c52a11b97465" name="Changes" comment="Product_Managemet_Exception Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749467973701</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Product_Managemet_Exception Added">
+      <option name="closed" value="true" />
+      <created>1749470784345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749470784345</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,14 +183,15 @@
     <MESSAGE value="output Screenshots added for Product Managements" />
     <MESSAGE value="output Screenshots." />
     <MESSAGE value="Global Exception Handling Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Global Exception Handling Added" />
+    <MESSAGE value="Product_Managemet_Exception Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Product_Managemet_Exception Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
-          <line>34</line>
+          <line>36</line>
           <properties class="com.example.Product_Management.Controller.ProductController">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -212,13 +218,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
-          <line>35</line>
+          <line>37</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
-          <line>36</line>
+          <line>38</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
