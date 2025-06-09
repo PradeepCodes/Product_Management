@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc2211fa-cb6c-4f6b-905d-c52a11b97465" name="Changes" comment="output Screenshots added for Product Management" />
+    <list default="true" id="bc2211fa-cb6c-4f6b-905d-c52a11b97465" name="Changes" comment="output Screenshots.">
+      <change afterPath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Exception/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product_Management/src/main/resources/templates/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product_Management/outputScreenshot/Screenshot (13).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product_Management/outputScreenshot/Screenshot (14).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product_Management/outputScreenshot/Screenshot (15).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product_Management/outputScreenshot/Screenshot (16).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Service/Impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Service/Impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Service/ProductService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +42,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PradeepCodes/Product_Management.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/PradeepCodes/Product_Management&quot;,
     &quot;accountId&quot;: &quot;237b14c3-d63a-4a5d-8cd8-8e3c321dbff2&quot;
   }
 }</component>
@@ -46,20 +58,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ProductManagementApplication.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ADMIT/Downloads/Product_Management",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.24093567",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ProductManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIT/Downloads/Product_Management&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.24093567&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIT\Downloads\Product_Management\Product_Management" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ProductManagementApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Product_Management.ProductManagementApplication" />
@@ -112,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749325064587</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="output Screenshots added for Product Managements">
+      <option name="closed" value="true" />
+      <created>1749325260921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749325260921</updated>
+    </task>
+    <task id="LOCAL-00005" summary="output Screenshots.">
+      <option name="closed" value="true" />
+      <created>1749325872502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749325872502</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +153,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -129,14 +174,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="output Screenshots added for Product Management" />
-    <option name="LAST_COMMIT_MESSAGE" value="output Screenshots added for Product Management" />
+    <MESSAGE value="output Screenshots added for Product Managements" />
+    <MESSAGE value="output Screenshots." />
+    <option name="LAST_COMMIT_MESSAGE" value="output Screenshots." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
-          <line>29</line>
+          <line>30</line>
           <properties class="com.example.Product_Management.Controller.ProductController" method="saveProduct">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -163,12 +210,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
-          <line>30</line>
+          <line>31</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Product_Management/src/main/java/com/example/Product_Management/Controller/ProductController.java</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
